@@ -1,0 +1,2101 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"functools	module"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"path",
+				"path	module"
+			],
+			[
+				"roo",
+				"root_dir"
+			],
+			[
+				"getw",
+				"getcwd	function"
+			],
+			[
+				"ji",
+				"jiaja2TemplateEngine"
+			],
+			[
+				"get",
+				"get_template	function"
+			],
+			[
+				"en",
+				"environment"
+			],
+			[
+				"e",
+				"env"
+			],
+			[
+				"fi",
+				"FileSystemLoader	class"
+			],
+			[
+				"parse_",
+				"parse_args	function"
+			],
+			[
+				"ar",
+				"ArgumentParser	class"
+			],
+			[
+				"std",
+				"stdout	instance"
+			],
+			[
+				"log",
+				"logging"
+			],
+			[
+				"in",
+				"INFO	statement"
+			],
+			[
+				"my_",
+				"my_groups"
+			],
+			[
+				"ap",
+				"append"
+			],
+			[
+				"my",
+				"my_list"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"commo",
+				"commond"
+			],
+			[
+				"com",
+				"commond	statement"
+			],
+			[
+				"iss",
+				"isspace"
+			],
+			[
+				"read",
+				"readline"
+			],
+			[
+				"commond",
+				"commond_file"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"co",
+				"commond"
+			],
+			[
+				"PASS",
+				"password"
+			],
+			[
+				"lo",
+				"loff_t"
+			],
+			[
+				"struc",
+				"struct"
+			],
+			[
+				"my_de",
+				"my_dev_read"
+			],
+			[
+				"str",
+				"struct"
+			],
+			[
+				"glo",
+				"globalnen_major"
+			],
+			[
+				"dev",
+				"devnum"
+			],
+			[
+				"ch",
+				"char_name"
+			],
+			[
+				"gl",
+				"globalnen_major"
+			],
+			[
+				"g",
+				"GLOBALNEN_SIZE"
+			],
+			[
+				"st",
+				"struct"
+			],
+			[
+				"kobj_",
+				"kobj_atrr"
+			],
+			[
+				"print",
+				"printk"
+			],
+			[
+				"siz",
+				"size_t"
+			],
+			[
+				"prin",
+				"printk"
+			],
+			[
+				"_name",
+				"_name##_show"
+			],
+			[
+				"ko",
+				"kobj_attribute"
+			],
+			[
+				"def",
+				"default_attrs"
+			],
+			[
+				"test",
+				"test_attr"
+			],
+			[
+				"MODU",
+				"MODULE_LICENSE"
+			],
+			[
+				"K",
+				"KERN_INFO"
+			],
+			[
+				"kobject_cr",
+				"kobject_create_and_add"
+			],
+			[
+				"kerne",
+				"kernel_path"
+			],
+			[
+				"hell",
+				"hell_exit"
+			],
+			[
+				"he",
+				"hello_main"
+			],
+			[
+				"pre",
+				"prepare"
+			],
+			[
+				"Dec",
+				"DECLARE_WAIT_QUEUE_HEAD"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"obs",
+				"observer	statement"
+			],
+			[
+				"sto",
+				"stop"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"han",
+				"LoggingEventHandler	class"
+			],
+			[
+				"Fi",
+				"FileSystemEventHandler	class"
+			],
+			[
+				"cro",
+				"crowd_id"
+			],
+			[
+				"ex",
+				"expect	function"
+			],
+			[
+				"adds",
+				"add_section	function"
+			],
+			[
+				"sec",
+				"sections	function"
+			],
+			[
+				"send",
+				"sendline"
+			],
+			[
+				"_ge",
+				"_Get_Config	function"
+			],
+			[
+				"clien",
+				"client_ovpn"
+			],
+			[
+				"li",
+				"linux_pass	statement"
+			],
+			[
+				"pa",
+				"password	statement"
+			],
+			[
+				"cli",
+				"client_ovpn"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"c",
+				"ConfigParser	class"
+			],
+			[
+				"_f",
+				"_Find_Config	function"
+			],
+			[
+				"con",
+				"config_file"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"root",
+				"root_password"
+			],
+			[
+				"a",
+				"add_option	function"
+			],
+			[
+				"de",
+				"delaybeforesend	statement"
+			],
+			[
+				"lof",
+				"logfile_send	statement"
+			],
+			[
+				"logfile",
+				"logfile_read	statement"
+			],
+			[
+				"conf",
+				"config_name"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"_",
+				"__all__〔variable〕"
+			],
+			[
+				"kd_hi",
+				"kd_hi257_poweron"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog/base/web.py",
+			"settings":
+			{
+				"buffer_size": 2134,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "awesome-python-webapp/www/transwarp/web.py",
+			"settings":
+			{
+				"buffer_size": 43976,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/urls.py",
+			"settings":
+			{
+				"buffer_size": 377,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "awesome-python-webapp/www/urls.py",
+			"settings":
+			{
+				"buffer_size": 9146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/web.py",
+			"settings":
+			{
+				"buffer_size": 1155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/base/urls.py",
+			"settings":
+			{
+				"buffer_size": 9146,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "awesome-python-webapp/www/wsgiapp.py",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Anaconda Python Builder",
+	"command_palette":
+	{
+		"height": 266.0,
+		"selected_items":
+		[
+			[
+				"Package Control: INS",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"error",
+				"Anaconda: Show error list"
+			],
+			[
+				"gitlogc",
+				"Git: Log Current File"
+			],
+			[
+				"gitlog",
+				"Git: Log Current File"
+			],
+			[
+				"gitdiffc",
+				"Git: Diff Current File"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"gitd",
+				"Git: Diff Current File"
+			],
+			[
+				"gitdiffcu",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Git: Diff All Files"
+			],
+			[
+				"gitlo",
+				"Git: Log All"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"git diffc",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"gitdiffcur",
+				"Git: Diff Current File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 105.0,
+		"history":
+		[
+			"print (100**100)",
+			"print (2**100)",
+			"import tkinter",
+			"import Tkinter",
+			"import tk",
+			"print(1)",
+			"print \"asd\"",
+			"printf  1",
+			"print  1",
+			"print  \"1\"",
+			"import os",
+			"import  pygame",
+			"import",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ext-huaqin-liuzhigang/webapp/blog",
+		"/home/ext-huaqin-liuzhigang/webapp/blog/base",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/www"
+	],
+	"file_history":
+	[
+		"/home/ext-huaqin-liuzhigang/webapp/blog/wsgiapp.py",
+		"/usr/lib/python2.7/functools.py",
+		"/home/ext-huaqin-liuzhigang/webapp/blog/templates/test_user.html",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/www/templates/signin.html",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/www/templates/register.html",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/www/templates/blogs.html",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/www/templates/blog.html",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/www/static/js/html5.js",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/ios/AwsomeApp/htmlHeader.txt",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/ios/AwsomeApp/htmlFooter.txt",
+		"/home/ext-huaqin-liuzhigang/webapp/blog/test/test.py",
+		"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/ext-huaqin-liuzhigang/webapp/blog/base/__init__.py",
+		"/home/ext-huaqin-liuzhigang/webapp/blog/urls.py",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/my.py",
+		"/home/ext-huaqin-liuzhigang/webapp/blog/web.py",
+		"/home/ext-huaqin-liuzhigang/webapp/awesome-python-webapp/www/wsgiapp.py",
+		"/usr/local/lib/python2.7/dist-packages/Jinja2-2.7.3-py2.7.egg/jinja2/environment.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/kats_testrun.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/runDownTests/fireos_power_suspend_email_facebook/facebook.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/tools/Mangler/make.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/tools/temp_sense.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/power/power_helper.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/.gitignore",
+		"/usr/lib/python2.7/tempfile.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/runDownTests/drain.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/hq_scripts/xml_test/my_xml.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/hq_scripts/xml_test/test.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/power_test.py",
+		"/usr/lib/python2.7/logging/__init__.py",
+		"/usr/lib/python2.7/argparse.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/test.log",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/test_base.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/power_xml_parser.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/power_main.py",
+		"/usr/lib/python2.7/getopt.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/hardware/arduino/cores/arduino/HardwareSerial.cpp",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/kodiak_device.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/ford_device.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/suspend/ford_airplane_suspend.xml",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/find_bros.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/tools/s3cmd/S3/BidirMap.py",
+		"/usr/lib/python2.7/xml/dom/minidom.py",
+		"/usr/lib/python2.7/collections.py",
+		"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/arduino-1.0/hardware/arduino/cores/arduino/HardwareSerial.cpp",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/hardware/arduino/bootloaders/optiboot/omake",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/firmware/jawfish/hardware.h",
+		"/home/ext-huaqin-liuzhigang/.config/sublime-text-3/Packages/Anaconda/Default (Linux).sublime-keymap",
+		"/usr/lib/python2.7/os.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/apollo_device.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/hardware/arduino/bootloaders/lilypad/LilyPadBOOT_168.hex",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/find_yocto_pair.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/battery_main.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/power/power_analysis.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/hq_scripts/hq_power_run.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/batmon.py",
+		"/home/ext-huaqin-liuzhigang/ford/uart_log/vsb_btsnoop_hci.log",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/tools/s3cmd/S3/SimpleDB.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerTestGroups/saturn_suspend.xml",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/saturn_device.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/log/Log/ford_airplane_suspend_device.log",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/batmon.log",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/.local_video_test.sh.swp",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/tools/daemonize",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/default.xml",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/runDownTests/device_helper.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/log/Log/ford_airplane_suspend_dmesg.log",
+		"/home/ext-huaqin-liuzhigang/ford/power/log/Log/ford_airplane_suspend_logcat.log",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/tools/s3cmd/S3/AccessLog.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/unittests/lib/nogpio/device_log_timeline_test.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/tools/s3cmd/S3/AccessLog.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/lib/nogpio/device_log_timeline.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/lib/nogpio/device_log_timeline.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/local_bros.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/power_common.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/hq_scripts/test.py",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/suspend/Log/ford_airplane_suspend.log",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/suspend/Result/ford_airplane_suspend.pwr",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/runDownTests/fireos_power_suspend_email_facebook/facebook.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/arduino-1.0/tools/Mangler/make.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/runDownTests/fireos_power_drain_reading/read.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/runDownTests/fireos_power_drain_reading/read.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/suspend/Post/suspend_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Test/wifi_browser_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Test/.local_video_test.sh.swp",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbdfu/Arduino-usbdfu.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbdfu/Arduino-usbdfu.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/libraries/Firmata/Boards.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/arduino-1.0/libraries/Firmata/Boards.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Pre/quiescent_pre.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/quiescent_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Post/audio_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Post/cpueater_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Post/video_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/audio_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/cpueater2_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/cpueater_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/idle_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Pre/quiescent_pre.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Test/quiescent_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Post/audio_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Post/cpueater_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Post/video_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Test/audio_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Test/cpueater2_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Test/cpueater_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Test/idle_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/local_video_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/wifi_video_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Test/wifi_browser_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Pre/browser_pre.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbserial/Lib/LightweightRingBuff.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Post/browser_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Pre/browser_pre.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbserial/Lib/LightweightRingBuff.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Post/browser_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/build_dependent_baselines/Data/site_list_top30.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/build_dependent_baselines/Data/site_list_top30.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbserial/Descriptors.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbdfu/Descriptors.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbserial/Descriptors.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/power/arduino-1.0/hardware/arduino/firmwares/arduino-usbdfu/Descriptors.h",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/suspend/Test/standby_test.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/suspend/Post/standby_post.sh",
+		"/home/ext-huaqin-liuzhigang/ford/power/yeyinyin_power/power/powerAppTests/suspend/Pre/standby_pre.sh"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/home/ext-huaqin-liuzhigang/ford/power/power",
+			"/home/ext-huaqin-liuzhigang/ford/power/log/Log",
+			"/home/ext-huaqin-liuzhigang/ford/power/power",
+			"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/suspend",
+			"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests",
+			"/home/ext-huaqin-liuzhigang/ford/power/power/powerAppTests/suspend",
+			"/home/ext-huaqin-liuzhigang/ford/power/log/Log",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/vendor",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/build",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/bootable",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/vendor/mediatek",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/vendor",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/kernel/power",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/hardware",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/frameworks",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel",
+			"/home/ext-huaqin-liuzhigang/ford/vsb_gerrit_ford/kernel/drivers/misc",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch/arm",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/kernel",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/arch",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10/android/configs",
+			"/home/lzg/android5.0/MT8382_L_BD2/kernel-3.10",
+			"G:\\android5.0\\MT8382_L_BD2\\system",
+			"G:\\android5.0\\MT8382_L_BD2\\system\\core",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"headers",
+			"functools",
+			"def view",
+			"view",
+			"def get",
+			"get",
+			"path_info",
+			"PATH_INFO",
+			"path_info",
+			"PATH_INFO",
+			"path_info",
+			"url",
+			"partial",
+			"view",
+			"_template_engine",
+			"_get_static",
+			"loader",
+			"Loader",
+			"loader",
+			"tempfile",
+			"launcher",
+			"launch_test",
+			"run",
+			"adb_cmd",
+			"adb",
+			"_add_container_actions",
+			"_add_action",
+			"RotatingFileHandler",
+			"levelName",
+			"levelname",
+			"config",
+			"message",
+			"summary_count",
+			"output_avg_data",
+			"power_value",
+			"test_case",
+			"test",
+			"log_root_path",
+			"test_descs",
+			"desc",
+			"test_descs",
+			"test_results",
+			"to run",
+			"Iteration",
+			"on ford",
+			"Starting new",
+			"Starting new test run on",
+			"times_to_run",
+			"install_power_tools",
+			"DEBUG",
+			"device_factory",
+			"validate_config",
+			"group",
+			"groups",
+			"etree",
+			"OrderedDict",
+			"past",
+			"copy",
+			"f5",
+			"ct",
+			"ctr",
+			"ctrl",
+			"copy",
+			"f6",
+			"f5",
+			"OrderedDict",
+			"group_dict",
+			"read",
+			"groups",
+			"log_root_path",
+			"DEFAULT_LOG_PATH",
+			"get_attached_devices",
+			"init",
+			"BMS",
+			"initde",
+			"off",
+			"initde",
+			"messageCallback",
+			"registerCallback",
+			"__MessageCallback__",
+			"_jawfish",
+			"__AnemoneSerial__",
+			"sh =",
+			"sh",
+			"OFF",
+			"out_anemone",
+			"initdevice",
+			"class ",
+			"no_anemone",
+			"use_anemone",
+			"no_reboot",
+			"dummy_power_off",
+			"anemone_dut_pair",
+			"dsn_from_cmd",
+			"object",
+			"class",
+			"Settings",
+			"parse_command_line",
+			"get_device_debugfs_events",
+			"main",
+			"batmon",
+			"main",
+			"serial",
+			"SERIAL",
+			"serial",
+			"Serial",
+			"serial",
+			"Serial",
+			"serial",
+			"Serial",
+			"serial",
+			"ser",
+			"parse",
+			"lunch",
+			"USB_DISCONNECT_EXPRESSION",
+			" Waiting for USB unplug",
+			"devicelogfile",
+			"Waiting for USB unplug",
+			"power_te",
+			"source power_",
+			"mark-test-start",
+			"usb",
+			"host_start_measure",
+			"host_usb_disconnect",
+			"test_timeline",
+			"MARK_TEST_START_MARKER",
+			"dut_mark_test_start",
+			"gpio_marked_end"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  "
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog/base/web.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2134,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								650,
+								650
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "awesome-python-webapp/www/transwarp/web.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 43976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40802,
+								40802
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 32652.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "blog/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								376,
+								376
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "awesome-python-webapp/www/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9105,
+								9105
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5796.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blog/web.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "blog/base/urls.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 9146,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4812,
+								4812
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "awesome-python-webapp/www/wsgiapp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.anaconda_documentation":
+	{
+		"height": 142.0
+	},
+	"output.exec":
+	{
+		"height": 335.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"project": "webapp.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ws",
+				"awesome-python-webapp/www/wsgiapp.py"
+			],
+			[
+				"wsgi",
+				"blog/wsgiapp.py"
+			],
+			[
+				"power_main",
+				"power/power_main.py"
+			],
+			[
+				"test.log",
+				"power/powerAppTests/test.log"
+			],
+			[
+				"ford",
+				"power/ford_device.py"
+			],
+			[
+				"device.log",
+				"Log/ford_airplane_suspend_device.log"
+			],
+			[
+				"plane.log",
+				"Log/ford_airplane_suspend.log"
+			],
+			[
+				".sh",
+				"power/power/power_helper.sh"
+			],
+			[
+				"ford_airplane_suspend.pwr",
+				"power/powerAppTests/suspend/Result/ford_airplane_suspend.pwr"
+			],
+			[
+				"suspend",
+				"power/powerAppTests/suspend/Post/suspend_post.sh"
+			],
+			[
+				"power_test",
+				"power/power_test.py"
+			],
+			[
+				"test_base",
+				"power/test_base.py"
+			],
+			[
+				"ford_airplane_suspend.xml",
+				"power/powerAppTests/suspend/ford_airplane_suspend.xml"
+			],
+			[
+				"ford_wifi_suspend_dumpsys.log",
+				"Log/ford_wifi_suspend_dumpsys.log"
+			],
+			[
+				"ssd60xx",
+				"kernel/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.c"
+			],
+			[
+				"check",
+				"kernel/scripts/checkpatch.pl"
+			],
+			[
+				"get_lo",
+				"device/amazon/ford/tools/get_logs.sh"
+			],
+			[
+				"project",
+				"device/amazon/ford/ProjectConfig.mk"
+			],
+			[
+				"tpd.c",
+				"kernel/arch/arm/mach-mt8127/ford/touchpanel/mtk_tpd.c"
+			],
+			[
+				"ssd60xx_tp",
+				"kernel/arch/arm/mach-mt8127/ford/touchpanel/ssd60xx_tp.c"
+			],
+			[
+				"debug_config",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"gt9xx_driver",
+				"kernel/drivers/input/touchscreen/mediatek/GT9XXTB_hotknot/gt9xx_driver.c"
+			],
+			[
+				"gt9xx",
+				"kernel/arch/arm/mach-mt8127/ford/touchpanel/gt9xx_driver.c"
+			],
+			[
+				"mt_dev.c",
+				"kernel/arch/arm/mach-mt8127/mt_devs.c"
+			],
+			[
+				"battery_log",
+				"device/amazon/ford/scripts/battery_log.sh"
+			],
+			[
+				"customgt9xx",
+				"kernel/arch/arm/mach-mt8127/ford/touchpanel/tpd_custom_gt9xx.h"
+			],
+			[
+				"bq24296",
+				"kernel/drivers/misc/mediatek/power/mt8127/bq24296.c"
+			],
+			[
+				"gt9xxtb",
+				"kernel/drivers/input/touchscreen/mediatek/GT9XXTB_hotknot/gt9xx_driver.c"
+			],
+			[
+				"forddebug",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"24297.h",
+				"kernel/drivers/misc/mediatek/power/mt8127/bq24297.h"
+			],
+			[
+				"bootable/bootloader/lk/platform/mt8127/bq24296.c",
+				"bootable/bootloader/lk/platform/mt8127/bq24296.c"
+			],
+			[
+				"8127platform.c",
+				"bootable/bootloader/lk/platform/mt8127/platform.c"
+			],
+			[
+				"emi.c",
+				"bootable/bootloader/preloader/platform/mt8127/src/drivers/emi.c"
+			],
+			[
+				".xls",
+				"device/mediatek/build/build/tools/emigen/MT8127/MemoryDeviceList_MT8127.xls"
+			],
+			[
+				".dws",
+				"bootable/bootloader/lk/target/ford/dct/dct/codegen.dws"
+			],
+			[
+				"memorydevice.h",
+				"bootable/bootloader/preloader/custom/ford/inc/custom_MemoryDevice.h"
+			],
+			[
+				"customdevice.h",
+				"bootable/bootloader/preloader/custom/ford/inc/custom_MemoryDevice.h"
+			],
+			[
+				"external/chromium_org/third_party/tcmalloc/chromium/src/base/spinlock_linux-inl.h",
+				"external/chromium_org/third_party/tcmalloc/chromium/src/base/spinlock_linux-inl.h"
+			],
+			[
+				"insmod.c",
+				"system/core/toolbox/insmod.c"
+			],
+			[
+				"power/main",
+				"kernel/kernel/power/main.c"
+			],
+			[
+				"tspcb",
+				"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pcb.c"
+			],
+			[
+				"kernel/drivers/i2c/i2c-boardinfo.c",
+				"kernel/drivers/i2c/i2c-boardinfo.c"
+			],
+			[
+				"tmp102",
+				"kernel/drivers/hwmon/tmp102.c"
+			],
+			[
+				"kxtj2_1009",
+				"kernel/drivers/misc/mediatek/accelerometer/KXTJ2_1009/kxtj2_1009.c"
+			],
+			[
+				"ford_def",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"kernel/arch/arm/kernel/dma.c",
+				"kernel/arch/arm/kernel/dma.c"
+			],
+			[
+				"kernel/arch/alpha/math-emu/math.c",
+				"kernel/arch/alpha/math-emu/math.c"
+			],
+			[
+				"module.h",
+				"kernel/include/linux/module.h"
+			],
+			[
+				"kernel/drivers/input/touchscreen/mediatek/gt813tb/gt813_driver.c",
+				"kernel/drivers/input/touchscreen/mediatek/GT813TB/gt813_driver.c"
+			],
+			[
+				"kernel/drivers/usb/gadget/rndis.c",
+				"kernel/drivers/usb/gadget/rndis.c"
+			],
+			[
+				"ford_",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"kernel/include/linux/proc_fs.h",
+				"kernel/include/linux/proc_fs.h"
+			],
+			[
+				"ts_pcb",
+				"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pcb.c"
+			],
+			[
+				"ford_config",
+				"kernel/arch/arm/configs/ford_defconfig"
+			],
+			[
+				"thermalmanager",
+				"vendor/mediatek/proprietary/packages/apps/MTKThermalManager/src/com/mediatek/thermalmanager/MTKThermalManagerActivity.java"
+			],
+			[
+				"media/thermal",
+				"vendor/mediatek/proprietary/packages/apps/MTKThermalManager/src/com/mediatek/thermalmanager/ThermalSensorActivity.java"
+			],
+			[
+				"mediathermal",
+				"vendor/mediatek/proprietary/packages/apps/MTKThermalManager/jni/thermald.cpp"
+			],
+			[
+				"external/chromium_org/chrome/browser/extensions/api/storage/settings_sync_unittest.cc",
+				"external/chromium_org/chrome/browser/extensions/api/storage/settings_sync_unittest.cc"
+			],
+			[
+				"battery",
+				"device/amazon/common/scripts/battery_log.sh"
+			],
+			[
+				"kernel/include/linux/wakelock.h",
+				"kernel/include/linux/wakelock.h"
+			],
+			[
+				"vfs.c",
+				"kernel/fs/nfsd/vfs.c"
+			],
+			[
+				"vfs.txt",
+				"kernel/Documentation/filesystems/vfs.txt"
+			],
+			[
+				"sys.txt",
+				"kernel/Documentation/filesystems/sysfs.txt"
+			],
+			[
+				"my_ko",
+				"kernel/drivers/misc/mediatek/hello/my_kobject.c"
+			],
+			[
+				"forddeconfig",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"ford_debug",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"powe.h",
+				"kernel/kernel/power/power.h"
+			],
+			[
+				"kernel/include/linux/sysfs.h",
+				"kernel/include/linux/sysfs.h"
+			],
+			[
+				"power",
+				"kernel/kernel/power/power.h"
+			],
+			[
+				"hello.c",
+				"kernel/drivers/misc/mediatek/hello/hello.c"
+			],
+			[
+				"my_kobject.c",
+				"hardware/ti/omap4-aah/security/tf_crypto_sst/pkcs11_object.c"
+			],
+			[
+				"kobject.c",
+				"kernel/drivers/misc/mediatek/hello/kobject.c"
+			],
+			[
+				"mtkfb.c",
+				"kernel/drivers/misc/mediatek/video/mt8127/mtkfb.c"
+			],
+			[
+				"kernel/include/linux/kobject.h",
+				"kernel/include/linux/kobject.h"
+			],
+			[
+				"kernel/kernel/power/power.h",
+				"kernel/kernel/power/power.h"
+			],
+			[
+				"ford_de",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"autosl",
+				"kernel/kernel/power/autosleep.c"
+			],
+			[
+				"documentation/workqueue.txt",
+				"kernel/Documentation/workqueue.txt"
+			],
+			[
+				"mm.h",
+				"kernel/include/linux/mm.h"
+			],
+			[
+				"kernel/include/linux/wait.h",
+				"kernel/include/linux/wait.h"
+			],
+			[
+				"mtkfb",
+				"kernel/drivers/misc/mediatek/video/mt8127/mtkfb.c"
+			],
+			[
+				"kernel/include/linux/kthread.h",
+				"kernel/include/linux/kthread.h"
+			],
+			[
+				"kernel/include/linux/moduleparam.h",
+				"kernel/include/linux/moduleparam.h"
+			],
+			[
+				"ford_debu",
+				"kernel/arch/arm/configs/ford_debug_defconfig"
+			],
+			[
+				"module",
+				"kernel/kernel/module.c"
+			],
+			[
+				"rmmod",
+				"system/core/toolbox/rmmod.c"
+			],
+			[
+				"p_module",
+				"external/oprofile/daemon/liblegacy/p_module.h"
+			],
+			[
+				"module.c",
+				"kernel/kernel/module.c"
+			],
+			[
+				"kthread.c",
+				"kernel/kernel/kthread.c"
+			],
+			[
+				"kernel/thread.c",
+				"bootable/bootloader/lk/kernel/thread.c"
+			],
+			[
+				"kernel/include/thread.h",
+				"kernel/include/linux/kthread.h"
+			],
+			[
+				"kernel/drivers/misc/mediatek/misc_via/sync.c",
+				"kernel/drivers/misc/mediatek/misc_via/sync.c"
+			],
+			[
+				"kernel/drivers/media/dvb-core/dvb_ca_en50221.c",
+				"kernel/drivers/media/dvb-core/dvb_ca_en50221.c"
+			],
+			[
+				"wakeup.c",
+				"kernel/drivers/base/power/wakeup.c"
+			],
+			[
+				"kernel/kernel/power/autosleep.c",
+				"kernel/kernel/power/autosleep.c"
+			],
+			[
+				"forddeconfi",
+				"kernel/arch/arm/configs/ford_defconfig"
+			],
+			[
+				"kernel/kernel/power/main.c",
+				"kernel/kernel/power/main.c"
+			],
+			[
+				"ipower",
+				"frameworks/native/services/powermanager/IPowerManager.cpp"
+			],
+			[
+				"kernel/include/linux/pm_wakeup.h",
+				"kernel/include/linux/pm_wakeup.h"
+			],
+			[
+				"hardware/power.c",
+				"hardware/libhardware_legacy/power/power.c"
+			],
+			[
+				"power.java",
+				"frameworks/base/core/java/android/os/PowerManager.java"
+			],
+			[
+				"kernel/kernel/power/earlysuspend.c",
+				"kernel/kernel/power/earlysuspend.c"
+			],
+			[
+				"wakelock.h",
+				"kernel/include/linux/wakelock.h"
+			],
+			[
+				"kernel/drivers/misc/mediatek/misc_via/power.c",
+				"kernel/drivers/misc/mediatek/misc_via/power.c"
+			],
+			[
+				"modules/power",
+				"hardware/libhardware/modules/power/power.c"
+			],
+			[
+				"powermanagerserv",
+				"frameworks/base/services/core/java/com/android/server/power/PowerManagerService.java"
+			],
+			[
+				"frameworks/base/core/jni/power.cpp",
+				"frameworks/base/services/core/jni/com_android_server_power_PowerManagerService.cpp"
+			],
+			[
+				"kernel/power.c",
+				"kernel/kernel/power/suspend_time.c"
+			],
+			[
+				"powerservice.java",
+				"frameworks/base/services/core/java/com/android/server/power/PowerManagerService.java"
+			],
+			[
+				"powerman",
+				"frameworks/base/core/java/android/os/PowerManager.java"
+			],
+			[
+				"external/libnfc-nci/src/gki/ulinux/gki_ulinux.c",
+				"external/libnfc-nci/src/gki/ulinux/gki_ulinux.c"
+			],
+			[
+				"power.c",
+				"kernel/drivers/acpi/power.c"
+			],
+			[
+				"kernel/include/mach/mtk_thermal_monitor.h",
+				"kernel/include/mach/mtk_thermal_monitor.h"
+			],
+			[
+				"kernel/drivers/misc/mediatek/met/mt8127/platform/mt8127/thermal.h",
+				"kernel/drivers/misc/mediatek/met/mt8127/platform/mt8127/thermal.h"
+			],
+			[
+				"therml.c",
+				"kernel/drivers/acpi/thermal.c"
+			],
+			[
+				"kernel/include/linux/thermal.h",
+				"kernel/include/linux/thermal.h"
+			],
+			[
+				"kernel/drivers/misc/mediatek/thermal/mtk_thermal_monitor.c",
+				"kernel/drivers/misc/mediatek/thermal/mtk_thermal_monitor.c"
+			],
+			[
+				"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pmic6397.c",
+				"kernel/drivers/misc/mediatek/thermal/mt8127/mtk_ts_pmic6397.c"
+			],
+			[
+				"arc/arm/deconfig",
+				"kernel/arch/arm/configs/ford_defconfig"
+			],
+			[
+				"documentation/hwmon/sysfs-interface",
+				"kernel/Documentation/hwmon/sysfs-interface"
+			],
+			[
+				"hardware/libhardware/include/hardware/sensors.h",
+				"hardware/libhardware/include/hardware/sensors.h"
+			],
+			[
+				"hardware/libhardware/include/hardware/hardware.h",
+				"hardware/libhardware/include/hardware/hardware.h"
+			],
+			[
+				"sensordevice",
+				"frameworks/native/services/sensorservice/SensorDevice.cpp"
+			],
+			[
+				"sensorservice",
+				"frameworks/native/services/sensorservice/SensorService.cpp"
+			],
+			[
+				"kernel/include/linux/hwmsen_dev.h",
+				"kernel/include/linux/hwmsen_dev.h"
+			],
+			[
+				"mediatak/accel.c",
+				"kernel/drivers/misc/mediatek/accelerometer/accel.c"
+			],
+			[
+				"accel.c",
+				"kernel/drivers/misc/mediatek/accelerometer/accel.c"
+			],
+			[
+				"kernel/arch/arm/mach-mt8127/ford/accelerometer/mpu6050.c",
+				"kernel/arch/arm/mach-mt8127/ford/accelerometer/mpu6050.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/ford/power/power_test.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"device_ty",
+				"device_type"
+			]
+		],
+		"width": 845.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
